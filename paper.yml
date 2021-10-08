@@ -36,7 +36,7 @@ settings:
     online-mode: false
     secret: ''
   async-chunks:
-    threads: -1
+    threads: 2
   unsupported-settings:
     allow-permanent-block-break-exploits: false
     allow-piston-duplication: false
